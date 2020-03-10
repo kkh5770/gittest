@@ -4,7 +4,8 @@ class Hello{
 
 		systemout.println("Hello");
 		systemout.println("World");
-		systemout.println("�ȳ��ϼ���");
+		systemout.println("¾È³çÇÏ¼¼¿ä");
+		systemout.println("World");
 	
 	}
 
